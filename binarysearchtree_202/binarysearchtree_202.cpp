@@ -23,5 +23,5 @@ class BinaryTree
 public:
 	Node* ROOT;
 
-	Binary
+	Binary 
 };
