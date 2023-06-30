@@ -27,4 +27,5 @@ public:
 	{
 		ROOT = NULL; // initializing ROOT to null 
 	}
+	void insert(string element) 
 };
