@@ -125,7 +125,7 @@ int main()
 	{
 		cout << "\nMenu" << endl;
 		cout << " 1. Implement insert operation" << endl;
-		cout << " 1. Perfrom inorder travesal" << endl;
+		cout << " 2. Perfrom inorder travesal" << endl;
 		cout << " 3. Perfrom preorder travesal" << endl;
 		cout << " 4. Perfrom postorder traversal" << endl;
 		cout << " 5. Exite" << endl;
